@@ -1,4 +1,4 @@
-sr_one
+SR1 Java implementation
 ======
 
-SR1 Quasi-Newton method
+SR1 is Quasi-Newton optimization method
